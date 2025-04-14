@@ -225,7 +225,7 @@ entry.search > * {
 
 /* Icon view */
 flowbox {
-  padding: 18px
+  padding: 18px;
 }
 
 flowboxchild {
